@@ -3,6 +3,11 @@
   max-width: 1440px;
   padding: 0 1rem;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .gradientText0 {
